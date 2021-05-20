@@ -5,7 +5,7 @@
 * SBC6800ルーズキットとSBC-IOを使って、オリジナルのMIKBUG ROMでMC6820(MC6821)を使ったシリアル通信(300bps)ができるようになります。
 
 ## 回路図
-![schematic](KiCad/SBC6800-ORGMIKBUG.jpg)
+![schematic](KiCAD/SBC6800-ORGMIKBUG.jpg)
 
 ## 参考リンク
 
